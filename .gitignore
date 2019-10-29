@@ -1,0 +1,8 @@
+*.doc
+*.exe
+*.html
+Dist/
+Resources/
+bin/
+obj/
+
